@@ -1,0 +1,20 @@
+<resources>
+    <string name="application_name">PW - 2</string>
+    <string name="navigation_drawer_open">Open navigation</string>
+    <string name="navigation_drawer_close">Close navigation</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_tab">TabbedActivity</string>
+    <string name="text_first">Tab 1</string>
+    <string name="text_second">Tab 2</string>
+    <string name="tabbed_custom">TabbedCustom</string>
+    <string name="menu_new_activity">TabbedActivity</string>=
+    <string name="custom_tab_btn">To main</string>
+</resources>
